@@ -21,6 +21,13 @@ public class Main {
             b += a;
         }
         System.out.println(b);
+
+        //correct sum of natural numbers
+        int d = 0;
+        for(int c = 0; c<=10; c++){
+            d += c;
+        }
+        System.out.println(d);
     }
 }
 /*An INSTANCE VARIABLE is a variable declared inside the class but
@@ -41,3 +48,5 @@ public class Main {
         * boolean
         * char
  */
+
+//score
